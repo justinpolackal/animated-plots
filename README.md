@@ -5,7 +5,7 @@ Here I chose to create individual plots and save them as PNG and later stitch th
 
 The data is sourced from Gapminder and was re-formatted to create the chart the way I wanted it.
 
-The python [notebook](https://github.com/justinpolackal/animated-plots/BirthAndMortalityRate_OverYears.ipynb) has the code to create PNG files and animated GIF.
+The python [notebook](https://github.com/justinpolackal/animated-plots/blob/master/BirthAndMortalityRate_OverYears.ipynb) has the code to create PNG files and animated GIF.
 
 
 
