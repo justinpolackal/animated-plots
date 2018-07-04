@@ -7,5 +7,7 @@ The data is sourced from Gapminder and was re-formatted to create the chart the 
 
 The python [notebook](https://github.com/justinpolackal/animated-plots/blob/master/BirthAndMortalityRate_OverYears.ipynb) has the code to create PNG files and animated GIF.
 
+For details, visit: [Animating Matplotlib Chart](http://www.notespoint.com/matplotlib-animation/)
+
 
 
